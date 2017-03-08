@@ -40,6 +40,12 @@ Charmi Edited the file
 Hi Folks!
 hard life ahead
 Hi Folks!
+<<<<<<< HEAD:c.txt
+hiiii
+hmse na ho pyga
+git is great
+floor no 7
+
 hmse na ho pyga
 git is great
 <<<<<<< HEAD:c.txt
