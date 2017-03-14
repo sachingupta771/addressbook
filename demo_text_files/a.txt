@@ -1,9 +1,4 @@
- Volume in drive D is DDRIVE
- Volume Serial Number is 8A26-EC4F
-
- Directory of D:\tmp\addressbook
-
-03/07/2017  03:14 PM    <DIR>          .
+ .
 03/07/2017  03:14 PM    <DIR>          ..
 03/07/2017  03:14 PM                 0 a.txt
 03/07/2017  02:41 PM               114 abc.txt
