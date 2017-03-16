@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /home/ubuntu/training/addressbook/addressbook_main/src/main/java/com/edurekademo/tutorial/addressbook/backend/Contact.java
 /home/ubuntu/training/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/StringUtilities.java
 /home/ubuntu/training/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/HexAsciiConvertor.java
@@ -12,18 +11,3 @@
 /home/ubuntu/training/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/CaseInsensitiveComparator.java
 /home/ubuntu/training/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/PropertyHelper.java
 /home/ubuntu/training/addressbook/addressbook_main/src/main/java/com/edurekademo/tutorial/addressbook/AddressbookUI.java
-=======
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/tutorial/addressbook/backend/ContactService.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/PropertyHelper.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/GenericComparator.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/PropertyLoader.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/HexAsciiConvertor.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/tutorial/addressbook/AddressbookUI.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/LoggerStackTraceUtil.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/helper/GenericResourceBundle.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/tutorial/addressbook/backend/Contact.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/StringUtilities.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/CaseInsensitiveComparator.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/utilities/PrepareTargetMethod.java
-/var/lib/jenkins/addressbook/addressbook_main/src/main/java/com/edurekademo/tutorial/addressbook/ContactForm.java
->>>>>>> 7bb47a149fad32db26e904b2a1820a81e12042a0
