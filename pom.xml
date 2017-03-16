@@ -19,7 +19,12 @@
         <thucydides.version>0.9.268</thucydides.version>
         <jelastic.context>addressbook</jelastic.context>
     </properties>
-
+<distributionManagement>
+  <repository>
+    <id>releases</id>
+    <url>http://52.172.203.55:8080/nexus/content/repositories/releases</url>
+  </repository>
+</distributionManagement>
     <scm>
         <connection>scm:git:git@github.com:${github.account}/addressbook.git</connection>
         <developerConnection>scm:git:git@github.com:${github.account}/addressbook.git</developerConnection>
