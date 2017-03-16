@@ -1,39 +1,10 @@
- Volume in drive D is DDRIVE
- Volume Serial Number is 8A26-EC4F
-
- Directory of D:\tmp\addressbook
-
-03/07/2017  03:14 PM    <DIR>          .
-03/07/2017  03:14 PM    <DIR>          ..
-03/07/2017  03:14 PM             1,687 a.txt
-03/07/2017  02:41 PM               114 abc.txt
-03/07/2017  02:41 PM                 0 add.txt
-03/07/2017  02:41 PM           116,902 addressbook_screenshot.png
-03/07/2017  02:44 PM               140 ash.txt
-03/07/2017  03:14 PM                 0 b.txt
-03/07/2017  02:41 PM             4,552 build.properties
-03/07/2017  02:41 PM            23,891 build.xml
-03/07/2017  03:11 PM               880 c.txt
-03/07/2017  02:41 PM                 0 chahat.txt
-03/07/2017  03:10 PM                48 d.txt
-03/07/2017  03:11 PM             1,595 e.txt
-03/07/2017  03:11 PM             1,595 f.txt
-03/07/2017  02:41 PM                 0 file
-03/07/2017  02:41 PM                 0 h.txt
-03/07/2017  02:41 PM                 6 i.txt
-03/07/2017  02:41 PM                15 j.txt
-03/07/2017  02:41 PM                 0 jjj.txt
-03/07/2017  02:41 PM                 0 kb.txt
-03/07/2017  02:41 PM                88 m.txt
-03/07/2017  03:11 PM                21 n.txt
-03/07/2017  02:41 PM                 0 new.txt
-03/07/2017  02:41 PM            20,948 pom.xml
-03/07/2017  02:41 PM                 6 qwe.txt
-03/07/2017  02:41 PM                 0 r.txt
-03/07/2017  02:41 PM             3,351 README.md
-03/07/2017  02:41 PM                 0 sac.txt
-03/07/2017  02:41 PM    <DIR>          src
-03/07/2017  02:41 PM                 0 surbhi.txt
-03/07/2017  02:41 PM               577 z.txt
-              29 File(s)        176,416 bytes
-               3 Dir(s)  118,525,448,192 bytes free
+total 148
+drwxrwxr-x  4 jenkins jenkins   4096 Mar  8 05:36 .
+drwxrwxrwt 11 root    root      4096 Mar  8 05:17 ..
+drwxrwxr-x  3 jenkins jenkins   4096 Mar  8 03:33 addressbook_main
+-rw-rw-r--  1 jenkins jenkins 116902 Mar  8 03:30 addressbook_screenshot.png
+-rw-rw-r--  1 jenkins jenkins     26 Mar  8 05:34 a.txt
+-rw-rw-r--  1 jenkins jenkins      0 Mar  8 05:36 b.txt
+drwxrwxr-x  8 jenkins jenkins   4096 Mar  8 05:35 .git
+-rw-rw-r--  1 jenkins jenkins   2552 Mar  8 03:30 pom.xml
+-rw-rw-r--  1 jenkins jenkins   4275 Mar  8 03:30 README.md
