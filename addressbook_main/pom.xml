@@ -7,7 +7,12 @@
     <packaging>war</packaging>
     <version>2.0</version>
     <name>Vaadin Addressbook example</name>
-
+<distributionManagement>
+  <repository>
+    <id>release_qa</id>
+    <url>http://52.172.204.7:8080/nexus/content/repositories/release_qa</url>
+  </repository>
+</distributionManagement>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
@@ -200,18 +205,7 @@
 
     <build>
         <plugins>
-		          <plugin>
-	<groupId>org.apache.tomcat.maven</groupId>
-	<artifactId>tomcat7-maven-plugin</artifactId>
-	<version>2.2</version>
-	<configuration>
-		<url>http://52.172.45.7:8080/manager/text</url>
-		<server>tomcat7server</server>
-		<path>/addressbook</path>
-		<update>true</update>
-	</configuration>
-	</plugin>
-            <plugin>
+	    <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.2</version>
