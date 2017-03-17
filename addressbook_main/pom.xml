@@ -7,13 +7,15 @@
     <packaging>war</packaging>
     <version>2.0</version>
     <name>Vaadin Addressbook example</name>
+    
 <distributionManagement>
   <repository>
-    <id>release_qa</id>
-    <url>http://52.172.204.7:8080/nexus/content/repositories/release_qa</url>
+    <id>dev</id>
+    <url>http://52.172.202.12:8080/nexus/content/repositories/dev</url>
   </repository>
 </distributionManagement>
-    <properties>
+
+<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <vaadin.version>8.0.0.alpha2</vaadin.version>
