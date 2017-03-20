@@ -20,13 +20,13 @@
         <jelastic.context>addressbook</jelastic.context>
     </properties>
     
-
 <distributionManagement>
   <repository>
-    <id>dev</id>
-    <url>http://52.172.202.12:8080/nexus/content/repositories/dev</url>
+    <id>dev1</id>
+    <url>http://52.172.203.249:8080/nexus/content/repositories/dev1</url>
   </repository>
 </distributionManagement>
+	
 <scm>
         <connection>scm:git:git@github.com:${github.account}/addressbook.git</connection>
         <developerConnection>scm:git:git@github.com:${github.account}/addressbook.git</developerConnection>
